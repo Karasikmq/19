@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rl8tXOxoHrTZ/JFGLnXyv1zkyUNtRCdZ9JbT7BliveUekcK6x6Mmjysiwf/1pLN9n3xD1niIy/va7EyYd2/1gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\PR19\\PR19\\PR19.iOS\\PR19.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
